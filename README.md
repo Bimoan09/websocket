@@ -4,7 +4,7 @@ This is a chat application that can be used for local usage in a small network. 
 # Instructions to run
 Clone the project
 ```
-git clone https://github.com/sudheeshshetty/Chat.git
+git clone https://github.com/Bimoan09/websocket.git
 ```
 
 ### DataBase - Mongo
@@ -30,14 +30,14 @@ I had seen a lot of times during local camps that people find it difficult to in
 
 # Few Screen Shots
 #### Login Screen
-![login screen](https://github.com/sudheeshshetty/Chat/blob/master/screenshots/login.png "Login Page")  
+![login screen](https://github.com/Bimoan09/websocket.git/Chat/blob/master/screenshots/login.png "Login Page")  
 #### Confirming request 
-![Confirming request to chat](https://github.com/sudheeshshetty/Chat/blob/master/screenshots/confirm_request.png "Confirming Request")  
+![Confirming request to chat](https://github.com/Bimoan09/websocket.git/Chat/blob/master/screenshots/confirm_request.png "Confirming Request")  
 #### Online users
-![online users](https://github.com/sudheeshshetty/Chat/blob/master/screenshots/online_users.png "Online users")  
+![online users](https://github.com/Bimoan09/websocket.git/Chat/blob/master/screenshots/online_users.png "Online users")  
 
 #### Chatting with Friend
-![Chatting](https://github.com/sudheeshshetty/Chat/blob/master/screenshots/chat.png? "Chatting with Friend")
+![Chatting](https://github.com/Bimoan09/websocket.git/Chat/blob/master/screenshots/chat.png? "Chatting with Friend")
 
 # Upcoming
 I have lot of things to do. 
@@ -45,8 +45,6 @@ I have lot of things to do.
 * More feauters to come, like blocking a user from chatting etc.  
 * Option for saving chats in case you need it. For now it doesnot store the messages.
 
-# Suggestions
-If you have any suggestions please do mail me at `sudheeshshetty@gmail.com` with subject as `chat-suggestions`
 
 # Credits
 I have used some code from AdminLTE for the chat UI. The HTML and dependent CSS.  
